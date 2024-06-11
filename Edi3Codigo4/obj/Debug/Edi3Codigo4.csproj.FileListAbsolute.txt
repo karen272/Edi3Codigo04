@@ -1,0 +1,10 @@
+D:\Edi3Codigos\actividad04\Edi3Codigo4\Edi3Codigo4\obj\Debug\Edi3Codigo4.csproj.AssemblyReference.cache
+D:\Edi3Codigos\actividad04\Edi3Codigo4\Edi3Codigo4\obj\Debug\Edi3Codigo4.Form1.resources
+D:\Edi3Codigos\actividad04\Edi3Codigo4\Edi3Codigo4\obj\Debug\Edi3Codigo4.Properties.Resources.resources
+D:\Edi3Codigos\actividad04\Edi3Codigo4\Edi3Codigo4\obj\Debug\Edi3Codigo4.csproj.GenerateResource.cache
+D:\Edi3Codigos\actividad04\Edi3Codigo4\Edi3Codigo4\obj\Debug\Edi3Codigo4.csproj.CoreCompileInputs.cache
+D:\Edi3Codigos\actividad04\Edi3Codigo4\Edi3Codigo4\bin\Debug\Edi3Codigo4.exe.config
+D:\Edi3Codigos\actividad04\Edi3Codigo4\Edi3Codigo4\bin\Debug\Edi3Codigo4.exe
+D:\Edi3Codigos\actividad04\Edi3Codigo4\Edi3Codigo4\bin\Debug\Edi3Codigo4.pdb
+D:\Edi3Codigos\actividad04\Edi3Codigo4\Edi3Codigo4\obj\Debug\Edi3Codigo4.exe
+D:\Edi3Codigos\actividad04\Edi3Codigo4\Edi3Codigo4\obj\Debug\Edi3Codigo4.pdb
